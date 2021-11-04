@@ -1,0 +1,6 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
