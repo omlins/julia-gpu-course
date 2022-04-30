@@ -1,4 +1,4 @@
-![Course title page](course_titlepage.png)
+
 
 #### Course Description
 
