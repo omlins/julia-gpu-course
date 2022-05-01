@@ -28,7 +28,7 @@ This course addresses scientists interested in doing HPC using Julia. Previous J
 This git repository contains the material of day 1 and 2 (speaker: Dr. Samuel Omlin, CSCS). The material of day 3 and 4 is found in [this git repository](https://github.com/maleadt/cscs_gpu_course/) (speaker: Dr. Tim Besard, Julia Computing Inc.).
 
 #### Course recording
-The edited course recording is found [here](https://youtu.be/LmM2QmYw_NM). The following list outlines key entry points into the video.
+The edited course recording is found [here](https://youtu.be/LmM2QmYw_NM). The following list provides key entry points into the video.
 
 ###### Day 1:
 
