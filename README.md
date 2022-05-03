@@ -45,9 +45,9 @@ The edited course recording is found [here](https://youtu.be/LmM2QmYw_NM). The f
 
 [1:24:53: Introduction to day 2](https://youtu.be/LmM2QmYw_NM?t=5093)
 
-[1:39:12: Walk through solutions of exercise 1 and 2(data "transfer" optimisations)](https://youtu.be/LmM2QmYw_NM?t=5952)
+[1:39:12: Walk through solutions of exercise 1 and 2 (data "transfer" optimisations)](https://youtu.be/LmM2QmYw_NM?t=5952)
 
-[2:34:12: Walk through solutions of exercise 3 and 4(data "transfer" optimisations and distributed parallelization)](https://youtu.be/LmM2QmYw_NM?t=9252)
+[2:34:12: Walk through solutions of exercise 3 and 4 (data "transfer" optimisations and distributed parallelization)](https://youtu.be/LmM2QmYw_NM?t=9252)
 
 
 ###### Day 3:
